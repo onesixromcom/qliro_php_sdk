@@ -60,6 +60,7 @@ See the [`examples/`](examples/) directory for runnable scripts:
 | `Qliro\MerchantApi\Order` | Create, update, and fetch merchant orders |
 | `Qliro\AdminApi\Order` | Manage orders: ship, return, cancel, add items |
 | `Qliro\AdminApi\Settlement` | Query settlements by date range |
+| `Qliro\AdminApi\Payment` | Query transaction data |
 | `Qliro\AdminApi\OrderItemStatus` | Constants: `RESERVE`, `CAPTURE`, `REFUND` |
 | `Qliro\AdminApi\SettlementStatus` | Constants: `ACCEPTED`, `REJECTED`, `PENDING` |
 
